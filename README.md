@@ -10,7 +10,7 @@
 
 # Getting Started with QR Code Generator
 
-<a href="" target="blank">QR Code Generator</a>
+<a href="https://huzaifanizam.github.io/QR-Code-Generator/">QR Code Generator</a>
 
 
 ### " QR Code Generator using HTML, CSS &amp; JavaScript"
@@ -34,7 +34,9 @@ The QR Code Generator app is created by [Huzaifa Nizam](https://www.linkedin.com
 <a href="https://instagram.com/huzaifa_nizam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huzaifa_nizam" height="30" width="40" /></a>
 </p>
 
-
+git status
+git add .
+git status
 git init
 git add README.md
 git commit -m "first commit"
