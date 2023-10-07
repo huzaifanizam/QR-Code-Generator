@@ -1,11 +1,12 @@
 ### "Web View"
-<img src="./img" alt="GitHUB" align="center" >
-<img src="./img" alt="GitHUB" align="center" >
+<img src="./img/1.web.png" alt="GitHUB" align="center" >
+<img src="./img/2.web.png" alt="GitHUB" align="center" >
+<img src="./img/3.web.png" alt="GitHUB" align="center" >
 
 ### "Mobile View"
-<img src="./img" alt="GitHUB" align="center" >
-<img src="./img" alt="GitHUB" align="center" >
-<img src="./img" alt="GitHUB" align="center" >
+<img src="./img/4.mobile.png" alt="GitHUB" align="center" >
+<img src="./img/5.mobile.png" alt="GitHUB" align="center" >
+<img src="./img/6.mobile.png" alt="GitHUB" align="center" >
 
 
 # Getting Started with QR Code Generator
