@@ -18,15 +18,15 @@ sizes.addEventListener('change',(e)=>{
 });
 
 
-downloadBtn.addEventListener('click', ()=>{
+downlodebtn.addEventListener('click', ()=>{
     let img = document.querySelector('.qr-body img');
 
     if(img !== null){
         let imgAtrr = img.getAttribute('src');
-        downloadBtn.setAttribute("href", imgAtrr);
+        downlodebtn.setAttribute("href", imgAtrr);
     }
     else{
-        downloadBtn.setAttribute("href", `${document.querySelector('canvas').toDataURL()}`);
+        downlodebtn.setAttribute("href", `${document.querySelector('canvas').toDataURL()}`);
     }
 });
 
